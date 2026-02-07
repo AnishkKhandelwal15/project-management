@@ -1,0 +1,22 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "a project management application for learn backend",
+  "keywords": [
+    "api",
+    "mongodb",
+    "personal",
+    "project",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Anishk khandelwal",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
